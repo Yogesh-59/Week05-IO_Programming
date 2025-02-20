@@ -1,0 +1,9 @@
+{
+  "name": "Deepraj",
+  "age": 20,
+  "address": {
+    "city": "Bhopal",
+    "zip": "462008"
+  },
+  "skills": ["Java", "Python", "SQL"]
+}
